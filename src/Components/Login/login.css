@@ -1,0 +1,19 @@
+
+.login{
+
+    background-color: aqua;
+    width: 50%;
+    height: 70%;
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    text-align: center;
+  
+}
+h1{
+    padding-top: 10%;
+    padding-bottom: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
